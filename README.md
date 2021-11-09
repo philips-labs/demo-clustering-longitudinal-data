@@ -4,6 +4,7 @@ This repository contains the R scripts used in the analysis of the case study of
 * MixTVEM source code used in the MixTVEM demo analysis - https://github.com/dziakj1/MixTVEM
 * _lcmm_ R package, used for estimating GMM and GBTM - https://cran.r-project.org/package=lcmm
 * _kml_ R package, used for estimating KmL - https://cran.r-project.org/package=kml
+* _mclust_ R package, used for estimating LLPA - https://cran.r-project.org/package=mclust
 * _latrend_ R package: The longitudinal clustering framework that we have created, originating from the learnings of this work - https://github.com/philips-software/latrend
 
 # Getting started
