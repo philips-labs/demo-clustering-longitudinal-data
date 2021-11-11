@@ -2,6 +2,8 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 preferred-citation:
   type: article
+  title: "Clustering of longitudinal data: A tutorial on a variety of approaches"
+  year: 2021
   authors:
   - family-names: "Den Teuling"
     given-names: "Niek G. P."
@@ -12,10 +14,8 @@ preferred-citation:
   - family-names: "van den Heuvel"
     given-names: "Edwin R."
     orcid: "https://orcid.org/0000-0001-9157-7224"
-  doi: "10.1080/03610918.2020.1861464"
   start: 1 # First page number
   end: 37 # Last page number
   version: v1
-  title: "Clustering of longitudinal data: A tutorial on a variety of approaches"
-  year: 2021
+  status: preprint
   url: "https://arxiv.org/abs/2111.05469"
